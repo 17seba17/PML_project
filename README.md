@@ -12,7 +12,7 @@ python3 -m venv .PML_env
 source .PML_env/bin/activate
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ---
