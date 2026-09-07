@@ -59,7 +59,7 @@ For each step, you can either **run the code** or **download the precomputed fil
 ### Step 3: Train CVAE
 * **Run training**:
   ```bash
-  python3 cvae/train.py
+  python3 cvae/train_cvae.py
   ```
 * **Or download trained model weights**:
   ```bash
