@@ -1,0 +1,14 @@
+.git/\
+.PML_env/
+__pycache__/
+dataset/*.nc
+*.nc
+cvae/*.pt
+*.pt
+graphs/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.zip
+
