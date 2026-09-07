@@ -75,5 +75,5 @@ For each step, you can either **run the code** or **download the precomputed fil
 * **Or download the generated plots directly**:
   ```bash
   gdown "https://drive.google.com/uc?id=1MDYpjjB5Vb9monnLaIInwrNJvIxQVxDK" -O graphs.zip
-  unzip graphs.zip -d graphs/
+  unzip graphs.zip -d .
   ```
