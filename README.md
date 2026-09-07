@@ -35,7 +35,7 @@ gdown "https://drive.google.com/uc?id=1ZcQCutrMGOtRm2G89xmPSmJOw73k2h_Z" -O data
 For each step, you can either **run the code** or **download the precomputed file**.
 
 ### Step 1: Data Preparation (FVG Region)
-* **Run from scratch** (~90 sec):
+* **Run from scratch**:
   ```bash
   python3 ols/prepare_data.py 12 47 14 45 dataset/vae_dataset.nc
   ```
